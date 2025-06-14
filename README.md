@@ -3,7 +3,8 @@
 ## Overview
 Virtual Try-On (VTO) technology allows customers to visualize how clothing items will look on them without physically trying them on. This project leverages computer vision, deep learning, and augmented reality to create a realistic and interactive experience for virtual clothing fitting. The project explores and implements state-of-the-art models such as **VITON**, **DeepVTO**, and **ACGPN** to enhance the VTON experience.
 
-![image](https://github.com/user-attachments/assets/4ce2791d-28d0-4f36-9727-0cbc2c55a6d0)
+![1](https://github.com/user-attachments/assets/c19605f8-8897-4bda-8b44-e2c281e6cb53)
+
 
 
 ## Available Models for Virtual Try-On
@@ -20,7 +21,8 @@ IDM VTON is a pioneering model in the VTO space. It consists of a two-stage fram
 - Can handle various poses and clothing types.
   
 ## Results of the Pretrained Model:
-![image](https://github.com/user-attachments/assets/fa7ebf05-62ee-4642-9aea-012e985ed55c)
+![2](https://github.com/user-attachments/assets/c7563591-0a64-4216-a93e-90ac19541d9f)
+
 
 
 ### 2. DeepVTO
@@ -42,7 +44,8 @@ ACGPN incorporates an adaptive content generator and prior network to improve cl
 - High-quality results with fine-grained details.
 - Effective for a wide range of clothing styles.
 
-![image](https://github.com/user-attachments/assets/74357fef-cab9-40c8-9e76-2c987e8ac7cb)
+![3](https://github.com/user-attachments/assets/2929e0f4-fc47-4e16-a667-3ff36c02aac2)
+
 
 
 ## Approach to Developing a VTO System
